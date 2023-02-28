@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Srinivas R Bhat , Electrical Engineering graduate.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning various Machine Learning Algorithms.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👋 Hi, I’m Srinivas R Bhat ,
+I am electrical engineering graduate. Working as a python developer.
 - 📫 How to reach me : srbhatnitk@gmail.com
 
 <!---
